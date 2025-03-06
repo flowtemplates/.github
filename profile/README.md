@@ -4,4 +4,4 @@
 - Extremely simple modern language.
 - Integration into editors by extensions.
 
-[Documentation](https://github.com/flowtemplates/docs)
+[Documentation](https://github.com/flowtemplates/docs) [Discord](https://discord.gg/QZJB5tyxtc)

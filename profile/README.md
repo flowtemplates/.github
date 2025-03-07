@@ -1,4 +1,5 @@
 # Flow Templates
+Modern tool for component code generation.
 
 - Own fast CLI and LSP on GO.
 - Extremely simple modern language.

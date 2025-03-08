@@ -1,8 +1,8 @@
 # Flow Templates
-Modern tool for component code generation.
+A modern tool for seamless component code generation.
 
-- Own fast CLI and LSP on GO.
-- Extremely simple modern language.
-- Integration into editors by extensions.
+- Fast CLI and LSP built with Go.
+- Simple, modern language designed for efficiency.
+- Native editor integrations via extensions.
 
 [Documentation](https://github.com/flowtemplates/docs) / [Discord](https://discord.gg/QZJB5tyxtc)
